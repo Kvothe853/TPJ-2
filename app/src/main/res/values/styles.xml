@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="app_name_style">
+        <item name="android:text">Airidas Smirnovas</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#4C4C4C</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:textColor">#4C4C4C</item>
+        <item name="backgroundTint">#e1e1e1</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+</resources>
